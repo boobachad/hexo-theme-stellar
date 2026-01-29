@@ -56,6 +56,12 @@ See docs: https://xaoxuu.com/wiki/stellar/
 
 https://xaoxuu.com/wiki/stellar/examples/
 
+## Documentation
+
+For detailed technical documentation on specific features:
+
+- [Dynamic Friend System / Friendship Chain System](./DYNAMIC_FRIEND_SYSTEM.md) - Complete guide to the dynamic friend links system
+
 ## Feedback
 
 Issues: https://github.com/xaoxuu/hexo-theme-stellar/issues/
